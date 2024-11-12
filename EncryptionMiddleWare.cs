@@ -1,7 +1,7 @@
 // <copyright file="EncryptionMiddleWare.cs" company="Harikrishnan">
 // Copyright © Harikrishnan. All rights reserved.
 // This computer program may not be used, copied, distributed, corrected, modified,
-// translated, transmitted or assigned without Experion's prior written authorization.
+// translated, transmitted or assigned without Harikrishnan's prior written authorization.
 // </copyright>
 namespace Solution.Project
 {
